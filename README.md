@@ -1,6 +1,6 @@
 # chat_app
 
-A new Flutter application.
+A new Flutter application.Still requires few more important features to be implemented.
 
 ## Getting Started
 
